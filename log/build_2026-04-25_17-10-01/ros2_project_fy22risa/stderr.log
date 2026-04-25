@@ -1,5 +1,0 @@
-  File "/uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa/colour_navigation.py", line 320
-    thread = threading.Thread(taimport math
-                              ^^^^^^^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-
