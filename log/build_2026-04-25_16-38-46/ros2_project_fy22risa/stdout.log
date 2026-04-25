@@ -1,0 +1,57 @@
+running egg_info
+creating build/ros2_project_fy22risa/ros2_project_fy22risa.egg-info
+writing build/ros2_project_fy22risa/ros2_project_fy22risa.egg-info/PKG-INFO
+writing dependency_links to build/ros2_project_fy22risa/ros2_project_fy22risa.egg-info/dependency_links.txt
+writing entry points to build/ros2_project_fy22risa/ros2_project_fy22risa.egg-info/entry_points.txt
+writing requirements to build/ros2_project_fy22risa/ros2_project_fy22risa.egg-info/requires.txt
+writing top-level names to build/ros2_project_fy22risa/ros2_project_fy22risa.egg-info/top_level.txt
+writing manifest file 'build/ros2_project_fy22risa/ros2_project_fy22risa.egg-info/SOURCES.txt'
+reading manifest file 'build/ros2_project_fy22risa/ros2_project_fy22risa.egg-info/SOURCES.txt'
+writing manifest file 'build/ros2_project_fy22risa/ros2_project_fy22risa.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build
+creating /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib
+creating /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa
+copying ros2_project_fy22risa/Skeleton_Code_First_Step.py -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa
+copying ros2_project_fy22risa/Skeleton_Code_Fourth_Step.py -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa
+copying ros2_project_fy22risa/Skeleton_Code_Second_Step.py -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa
+copying ros2_project_fy22risa/Skeleton_Code_Third_Step.py -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa
+copying ros2_project_fy22risa/__init__.py -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa
+copying ros2_project_fy22risa/first_step.py -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa
+copying ros2_project_fy22risa/second_step.py -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa
+copying ros2_project_fy22risa/colour_navigation.py -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa
+running install
+running install_lib
+creating /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa
+copying /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa/Skeleton_Code_First_Step.py -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa
+copying /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa/Skeleton_Code_Fourth_Step.py -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa
+copying /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa/Skeleton_Code_Second_Step.py -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa
+copying /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa/Skeleton_Code_Third_Step.py -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa
+copying /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa/__init__.py -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa
+copying /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa/first_step.py -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa
+copying /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa/second_step.py -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa
+copying /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa/colour_navigation.py -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa
+byte-compiling /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa/Skeleton_Code_First_Step.py to Skeleton_Code_First_Step.cpython-310.pyc
+byte-compiling /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa/Skeleton_Code_Fourth_Step.py to Skeleton_Code_Fourth_Step.cpython-310.pyc
+byte-compiling /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa/Skeleton_Code_Second_Step.py to Skeleton_Code_Second_Step.cpython-310.pyc
+byte-compiling /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa/Skeleton_Code_Third_Step.py to Skeleton_Code_Third_Step.cpython-310.pyc
+byte-compiling /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa/__init__.py to __init__.cpython-310.pyc
+byte-compiling /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa/first_step.py to first_step.cpython-310.pyc
+byte-compiling /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa/second_step.py to second_step.cpython-310.pyc
+byte-compiling /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa/colour_navigation.py to colour_navigation.cpython-310.pyc
+running install_data
+creating /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/share/ament_index
+creating /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/share/ament_index/resource_index
+creating /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/share/ament_index/resource_index/packages
+copying resource/ros2_project_fy22risa -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/share/ament_index/resource_index/packages
+copying package.xml -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/share/ros2_project_fy22risa
+running install_egg_info
+Copying build/ros2_project_fy22risa/ros2_project_fy22risa.egg-info to /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa-0.0.0-py3.10.egg-info
+running install_scripts
+Installing colour_navigation script to /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/ros2_project_fy22risa
+Installing first_step script to /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/ros2_project_fy22risa
+Installing fourth_step script to /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/ros2_project_fy22risa
+Installing second_step script to /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/ros2_project_fy22risa
+Installing third_step script to /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/ros2_project_fy22risa
+writing list of installed files to '/uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/install.log'

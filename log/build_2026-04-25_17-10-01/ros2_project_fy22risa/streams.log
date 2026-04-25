@@ -1,0 +1,33 @@
+[1.058s] Invoking command in '/uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa': PS1=[COMP3631] Singularity> \w $ PYTHONPATH=/uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/prefix_override:/uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/ros2_project_fy22risa build --build-base /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build install --record /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/install.log --single-version-externally-managed
+[1.363s] running egg_info
+[1.364s] writing build/ros2_project_fy22risa/ros2_project_fy22risa.egg-info/PKG-INFO
+[1.368s] writing dependency_links to build/ros2_project_fy22risa/ros2_project_fy22risa.egg-info/dependency_links.txt
+[1.371s] writing entry points to build/ros2_project_fy22risa/ros2_project_fy22risa.egg-info/entry_points.txt
+[1.373s] writing requirements to build/ros2_project_fy22risa/ros2_project_fy22risa.egg-info/requires.txt
+[1.376s] writing top-level names to build/ros2_project_fy22risa/ros2_project_fy22risa.egg-info/top_level.txt
+[1.386s] reading manifest file 'build/ros2_project_fy22risa/ros2_project_fy22risa.egg-info/SOURCES.txt'
+[1.388s] writing manifest file 'build/ros2_project_fy22risa/ros2_project_fy22risa.egg-info/SOURCES.txt'
+[1.390s] running build
+[1.390s] running build_py
+[1.395s] copying ros2_project_fy22risa/colour_navigation.py -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa
+[1.399s] running install
+[1.400s] running install_lib
+[1.405s] copying /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build/lib/ros2_project_fy22risa/colour_navigation.py -> /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa
+[1.414s] byte-compiling /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa/colour_navigation.py to colour_navigation.cpython-310.pyc
+[1.418s]   File "/uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa/colour_navigation.py", line 320
+[1.419s]     thread = threading.Thread(taimport math
+[1.419s]                               ^^^^^^^^^^^^^
+[1.419s] SyntaxError: invalid syntax. Perhaps you forgot a comma?
+[1.419s] 
+[1.419s] running install_data
+[1.420s] running install_egg_info
+[1.421s] removing '/uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa-0.0.0-py3.10.egg-info' (and everything under it)
+[1.430s] Copying build/ros2_project_fy22risa/ros2_project_fy22risa.egg-info to /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages/ros2_project_fy22risa-0.0.0-py3.10.egg-info
+[1.469s] running install_scripts
+[1.489s] Installing colour_navigation script to /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/ros2_project_fy22risa
+[1.492s] Installing first_step script to /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/ros2_project_fy22risa
+[1.495s] Installing fourth_step script to /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/ros2_project_fy22risa
+[1.498s] Installing second_step script to /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/ros2_project_fy22risa
+[1.501s] Installing third_step script to /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/ros2_project_fy22risa
+[1.504s] writing list of installed files to '/uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/install.log'
+[1.521s] Invoked command in '/uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa' returned '0': PS1=[COMP3631] Singularity> \w $ PYTHONPATH=/uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/prefix_override:/uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/install/ros2_project_fy22risa/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/ros2_project_fy22risa build --build-base /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/build install --record /uolstore/home/users/fy22risa/ros2_ws/src/ros2_project_fy22risa/build/ros2_project_fy22risa/install.log --single-version-externally-managed

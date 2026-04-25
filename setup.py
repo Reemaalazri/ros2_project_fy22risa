@@ -24,6 +24,7 @@ setup(
             'second_step = ros2_project_fy22risa.second_step:main',
             'third_step = ros2_project_fy22risa.third_step:main',
             'fourth_step = ros2_project_fy22risa.fourth_step:main',
+            'colour_navigation = ros2_project_fy22risa.colour_navigation:main',
         ],
     },
 )
